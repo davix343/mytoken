@@ -1,0 +1,2 @@
+# mytoken
+contratto usando remixIDE
